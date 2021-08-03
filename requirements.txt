@@ -1,6 +1,6 @@
 PyAudio
 scipy
-soundfile 
+sounddevice 
 streamlit
 librosa
 numpy
