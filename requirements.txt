@@ -1,1 +1,10 @@
 PyAudio
+scipy
+soundfile 
+streamlit
+librosa
+numpy
+pandas
+pickleshare
+wavio
+matplotlib
